@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.input1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+.list{
+    display: flex;
+    justify-content: center ;
+    margin-top: 3rem;
+}
+#list-container{
+   padding: 2rem;
+   margin: 20px;
+   width: 400px;
+}
+
+.Yogesh{
+    border: 1px solid rgb(11, 194, 255);
+    margin: 10px;
+    text-align: start;
+    padding: 1rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
